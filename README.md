@@ -6,6 +6,8 @@
 
   ![image](https://github.com/Sp1keeeee/manifestGuard/blob/main/IMG/jadx.png)
 
+- [https://bbs.pediy.com/thread-275427.htm#msg_header_h2_0](https://bbs.pediy.com/thread-275427.htm#msg_header_h2_0)
+
 ## useage
 
 - guard mode:
